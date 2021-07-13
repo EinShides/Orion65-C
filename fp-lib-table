@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name Crystals)(type KiCad)(uri ${KIPRJMOD}/Crystals)(options "")(descr ""))
+  (lib (name Housings_QFP)(type KiCad)(uri ${KIPRJMOD}/Housings_QFP.pretty-master)(options "")(descr ""))
+  (lib (name kicad_lib_tmk)(type KiCad)(uri ${KIPRJMOD}/kicad_lib_tmk)(options "")(descr ""))
+  (lib (name Mounting_Holes)(type KiCad)(uri ${KIPRJMOD}/Mounting_Holes.pretty)(options "")(descr ""))
+  (lib (name Silkscreen_Text)(type KiCad)(uri ${KIPRJMOD}/Silkscreen_Text.pretty)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Only.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/random-keyboard-parts.pretty-master)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty-master)(options "")(descr ""))
+)
