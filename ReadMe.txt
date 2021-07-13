@@ -1,4 +1,4 @@
-The Orion65 pcb is a minimalistic 65% keybaord that is based off and inspired by the voyager60 PCB made by ai03. Thhis PCB uses the same mounting holes as the tada68.
+The Orion65 pcb is a minimalistic 65% keybaord that is based off and inspired by the voyager60 PCB made by ai03. This PCB uses the same mounting holes as the tada68.
 
 IMPORTANT: Make sure to check and meet the design rules of the chosen pcb manufacturer before ordering or else errors may occur.
 		e.g. OSH Park recommends a Pad Mask Clearance of 0.0508mm
